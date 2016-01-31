@@ -7,6 +7,8 @@ https://thetechnologyteacher.wordpress.com/vncthumbnailviewer
 
 ## Load List Of Hosts
 It is important to know that the list of hosts file needs to be created in this format. 
+After loading in a list of hosts created in the following way you can then save the list of hosts with encryption enabled.
+This was easier for me than adding the hosts one by one and then saving the result.
 
 ```xml
 <?xml version="1.0" standalone="yes"?>
